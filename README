@@ -1,0 +1,1 @@
+usage: php convertPHPMyAdminXML2UnitTestXML.CLI.php file1.xml file2.xml ... > output.xml
